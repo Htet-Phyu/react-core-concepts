@@ -15,7 +15,7 @@ Use it as a checklist when starting a new React project or as a refresher when y
 ---
 
 <a id="table-of-contents"></a>
-## 🧭 Quick Navigation
+## Quick Navigation
 
 1.  [What is React?](#what-is-react)
 2.  [Key Features](#key-features)
@@ -117,7 +117,7 @@ React is a **JavaScript library** for building **user interfaces**, especially s
 ---
 
 <a id="core-concepts"></a>
-## 📚 Core Concepts
+## Core Concepts
 
 <a id="1-components"></a>
 ### 1. Components
